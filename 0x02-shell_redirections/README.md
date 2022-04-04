@@ -1,1 +1,1 @@
-describing what each file is doing.
+describing what each script is doing
