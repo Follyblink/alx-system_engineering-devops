@@ -1,1 +1,1 @@
-my script readme
+command-challenge
